@@ -7,3 +7,6 @@ We'll be using Gitter again for chat, although we'll be in a different room toda
 Yolo!!!
 
 ### emao's line
+### Intuit - dealing with mergge conflict
+
+Resolve conflict
